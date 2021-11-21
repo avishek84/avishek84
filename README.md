@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Avishek Datta
 - 👀 I’m interested in Big Data and Machine Learning
-- 💞️ I’m looking to collaborate on Big Data and Machine Learning
+- 💞️ I’m looking for job opportunities on Big Data and Machine Learning
 - 📫 You can connect me through my email - avishek84@yahoo.co.in and my Linkedin Profile is www.linkedin.com/in/avishek84
 
 <!---
