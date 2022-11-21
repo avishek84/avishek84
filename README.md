@@ -10,22 +10,22 @@
 <br>
 <p>I have completed the following certifications in <strong>Big Data Analytics</strong> and <strong>Machine Learning</strong>:</p>
 <ul style="list-style-type: disc;">
-    <li>Databricks Certified Associate Developer for Apache Spark 3.0</li>
-    <li>Databricks Certified Data Engineer Associate</li>
-    <li>Fundamentals of the Databricks Lakehouse Platform Accreditation - Certificate</li>
-    <li>Wiley Jigsaw Certified Big Data Specialist</li>
+    <li style="font-weight: bold;"><strong>Databricks Certified Associate Developer for Apache Spark 3.0</strong></li>
+    <li style="font-weight: bold;"><strong>Databricks Certified Data Engineer Associate</strong></li>
+    <li style="font-weight: bold;"><strong>Fundamentals of the Databricks Lakehouse Platform Accreditation - Certificate</strong></li>
+    <li style="font-weight: bold;"><strong>Wiley Jigsaw Certified Big Data Specialist</strong></li>
 </ul>
 <p><br></p>
-<p>I have also completed the following certifications on Data Science from IBM:</p>
+<p>I have also completed the following certifications on <strong>Data Science</strong> from <strong>IBM</strong>:</p>
 <ul style="list-style-type: square;">
-    <li>Machine Learning with Python</li>
-    <li>Data Analysis with Python</li>
-    <li>Introduction to Data Science</li>
-    <li>Data Visualization with Python</li>
-    <li>Python 101 for Data Science</li>
-    <li>SQL and Relational Databases 101</li>
-    <li>Spark Fundamentals I</li>
-    <li>Spark Fundamentals II</li>
+    <li style="font-weight: bold;"><strong>Machine Learning with Python</strong></li>
+    <li style="font-weight: bold;"><strong>Data Analysis with Python</strong></li>
+    <li style="font-weight: bold;"><strong>Introduction to Data Science</strong></li>
+    <li style="font-weight: bold;"><strong>Data Visualization with Python</strong></li>
+    <li style="font-weight: bold;"><strong>Python 101 for Data Science</strong></li>
+    <li style="font-weight: bold;"><strong>SQL and Relational Databases 101</strong></li>
+    <li style="font-weight: bold;"><strong>Spark Fundamentals I</strong></li>
+    <li style="font-weight: bold;"><strong>Spark Fundamentals II</strong></li>
 </ul>
 
 <!---
