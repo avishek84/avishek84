@@ -12,7 +12,7 @@
 <ul style="list-style-type: disc;">
     <li style="font-weight: bold;"><strong>Databricks Certified Associate Developer for Apache Spark 3.0</strong></li>
     <li style="font-weight: bold;"><strong>Databricks Certified Data Engineer Associate</strong></li>
-    <li style="font-weight: bold;"><strong>Fundamentals of the Databricks Lakehouse Platform Accreditation - Certificate</strong></li>
+    <li style="font-weight: bold;"><strong>Databricks Accredited Lakehouse Fundamentals</strong></li>
     <li style="font-weight: bold;"><strong>Wiley Jigsaw Certified Big Data Specialist</strong></li>
 </ul>
 <p><br></p>
